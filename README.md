@@ -1,2 +1,2 @@
 ## `test-sept28`
-it is for testing
+it is for testing only
